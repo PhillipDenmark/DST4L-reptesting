@@ -6,8 +6,8 @@
 >quote from another user
 
 list:
-  -Item1
-  -Item2
+  - Item1
+  - Item2
 
 
 [Facebook](facebook.com)
